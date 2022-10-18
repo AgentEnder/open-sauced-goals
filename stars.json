@@ -2,12 +2,12 @@
   {
     "full_name": "GovAlta/nx-tools",
     "stargazers_count": 6,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "StalkAltan/casserole",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 4,
     "forks_count": 0
   },
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2452,
+    "stargazers_count": 2462,
     "open_issues_count": 22,
-    "forks_count": 99
+    "forks_count": 102
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 34937,
-    "open_issues_count": 389,
-    "forks_count": 816
+    "stargazers_count": 35179,
+    "open_issues_count": 404,
+    "forks_count": 822
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 18192,
-    "open_issues_count": 438,
-    "forks_count": 4645
+    "stargazers_count": 18202,
+    "open_issues_count": 444,
+    "forks_count": 4648
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 29779,
-    "open_issues_count": 2338,
-    "forks_count": 8350
+    "stargazers_count": 29882,
+    "open_issues_count": 2355,
+    "forks_count": 8367
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 33704,
-    "open_issues_count": 427,
-    "forks_count": 2247
+    "stargazers_count": 33727,
+    "open_issues_count": 429,
+    "forks_count": 2250
   },
   {
     "full_name": "sinclairzx81/typebox",
-    "stargazers_count": 1967,
+    "stargazers_count": 1971,
     "open_issues_count": 1,
     "forks_count": 71
   },
   {
     "full_name": "nrwl/monorepo.tools",
-    "stargazers_count": 189,
-    "open_issues_count": 5,
+    "stargazers_count": 193,
+    "open_issues_count": 4,
     "forks_count": 18
   },
   {
@@ -80,32 +80,32 @@
   {
     "full_name": "nx-dotnet/nx-dotnet",
     "stargazers_count": 156,
-    "open_issues_count": 37,
-    "forks_count": 26
+    "open_issues_count": 40,
+    "forks_count": 27
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 24122,
-    "open_issues_count": 119,
-    "forks_count": 3705
+    "stargazers_count": 24288,
+    "open_issues_count": 120,
+    "forks_count": 3708
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 84961,
-    "open_issues_count": 5827,
-    "forks_count": 11053
+    "stargazers_count": 85043,
+    "open_issues_count": 5824,
+    "forks_count": 11061
   },
   {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 5801,
-    "open_issues_count": 124,
-    "forks_count": 263
+    "stargazers_count": 5830,
+    "open_issues_count": 126,
+    "forks_count": 267
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 7315,
-    "open_issues_count": 47,
-    "forks_count": 1811
+    "stargazers_count": 7318,
+    "open_issues_count": 46,
+    "forks_count": 1812
   },
   {
     "full_name": "crutchcorn/cli-testing-library",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "vsavkin/large-monorepo",
-    "stargazers_count": 209,
+    "stargazers_count": 213,
     "open_issues_count": 2,
     "forks_count": 28
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 14889,
-    "open_issues_count": 677,
-    "forks_count": 1439
+    "stargazers_count": 14940,
+    "open_issues_count": 696,
+    "forks_count": 1446
   },
   {
     "full_name": "Elringus/DotNetJS",
-    "stargazers_count": 515,
-    "open_issues_count": 18,
-    "forks_count": 31
+    "stargazers_count": 516,
+    "open_issues_count": 17,
+    "forks_count": 33
   },
   {
     "full_name": "Coly010/rxjs-debug-operator",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 24219,
-    "open_issues_count": 302,
-    "forks_count": 816
+    "stargazers_count": 24261,
+    "open_issues_count": 304,
+    "forks_count": 818
   },
   {
     "full_name": "saurabhdaware/cli-testing-tool",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "mrmlnc/fast-glob",
-    "stargazers_count": 1825,
+    "stargazers_count": 1828,
     "open_issues_count": 25,
     "forks_count": 90
   },
@@ -176,7 +176,7 @@
   {
     "full_name": "nrwl/nx-set-shas",
     "stargazers_count": 65,
-    "open_issues_count": 3,
-    "forks_count": 19
+    "open_issues_count": 4,
+    "forks_count": 20
   }
 ]
