@@ -19,15 +19,15 @@
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2490,
+    "stargazers_count": 2494,
     "open_issues_count": 23,
     "forks_count": 102
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 35936,
-    "open_issues_count": 375,
-    "forks_count": 850
+    "stargazers_count": 36042,
+    "open_issues_count": 392,
+    "forks_count": 854
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -37,75 +37,75 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 18297,
-    "open_issues_count": 427,
-    "forks_count": 4683
+    "stargazers_count": 18315,
+    "open_issues_count": 428,
+    "forks_count": 4685
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 30088,
-    "open_issues_count": 2302,
-    "forks_count": 8461
+    "stargazers_count": 30118,
+    "open_issues_count": 2325,
+    "forks_count": 8466
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 6,
     "forks_count": 29
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 33862,
-    "open_issues_count": 431,
-    "forks_count": 2253
+    "stargazers_count": 33880,
+    "open_issues_count": 435,
+    "forks_count": 2258
   },
   {
     "full_name": "sinclairzx81/typebox",
-    "stargazers_count": 2048,
-    "open_issues_count": 3,
-    "forks_count": 72
+    "stargazers_count": 2060,
+    "open_issues_count": 4,
+    "forks_count": 73
   },
   {
     "full_name": "nrwl/monorepo.tools",
-    "stargazers_count": 202,
+    "stargazers_count": 204,
     "open_issues_count": 4,
     "forks_count": 20
   },
   {
     "full_name": "swimlane/pkgdrop",
     "stargazers_count": 12,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 1
   },
   {
     "full_name": "nx-dotnet/nx-dotnet",
     "stargazers_count": 162,
-    "open_issues_count": 40,
-    "forks_count": 30
+    "open_issues_count": 37,
+    "forks_count": 32
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 24659,
-    "open_issues_count": 122,
-    "forks_count": 3714
+    "stargazers_count": 24716,
+    "open_issues_count": 125,
+    "forks_count": 3717
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 85852,
-    "open_issues_count": 5869,
-    "forks_count": 11140
+    "stargazers_count": 85947,
+    "open_issues_count": 5899,
+    "forks_count": 11162
   },
   {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 6112,
-    "open_issues_count": 138,
-    "forks_count": 276
+    "stargazers_count": 6158,
+    "open_issues_count": 139,
+    "forks_count": 277
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 7359,
-    "open_issues_count": 48,
-    "forks_count": 1821
+    "stargazers_count": 7362,
+    "open_issues_count": 49,
+    "forks_count": 1820
   },
   {
     "full_name": "crutchcorn/cli-testing-library",
@@ -121,19 +121,19 @@
   },
   {
     "full_name": "nxtensions/nxtensions",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 8,
     "forks_count": 6
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 15263,
-    "open_issues_count": 683,
-    "forks_count": 1489
+    "stargazers_count": 15310,
+    "open_issues_count": 693,
+    "forks_count": 1495
   },
   {
     "full_name": "Elringus/DotNetJS",
-    "stargazers_count": 525,
+    "stargazers_count": 526,
     "open_issues_count": 16,
     "forks_count": 33
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 24781,
-    "open_issues_count": 334,
-    "forks_count": 838
+    "stargazers_count": 24827,
+    "open_issues_count": 336,
+    "forks_count": 837
   },
   {
     "full_name": "saurabhdaware/cli-testing-tool",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "mrmlnc/fast-glob",
-    "stargazers_count": 1870,
+    "stargazers_count": 1879,
     "open_issues_count": 27,
-    "forks_count": 92
+    "forks_count": 91
   },
   {
     "full_name": "mrodrigues95/spout",
