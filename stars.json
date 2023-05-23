@@ -1,21 +1,21 @@
 [
   {
     "full_name": "qwikifiers/qwik-nx",
-    "stargazers_count": 86,
+    "stargazers_count": 88,
     "open_issues_count": 26,
     "forks_count": 16
   },
   {
     "full_name": "yargs/yargs",
-    "stargazers_count": 10452,
+    "stargazers_count": 10457,
     "open_issues_count": 303,
     "forks_count": 1044
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 8673,
-    "open_issues_count": 60,
-    "forks_count": 218
+    "stargazers_count": 8738,
+    "open_issues_count": 64,
+    "forks_count": 224
   },
   {
     "full_name": "dotnet/cli",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "leonardochaia/dotnet-affected",
-    "stargazers_count": 112,
+    "stargazers_count": 115,
     "open_issues_count": 4,
     "forks_count": 10
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 38417,
-    "open_issues_count": 123,
-    "forks_count": 971
+    "stargazers_count": 38544,
+    "open_issues_count": 127,
+    "forks_count": 972
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 59949,
+    "stargazers_count": 59968,
     "open_issues_count": 63,
-    "forks_count": 1407
+    "forks_count": 1408
   },
   {
     "full_name": "Mineqress/minepress",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2655,
+    "stargazers_count": 2654,
     "open_issues_count": 24,
-    "forks_count": 105
+    "forks_count": 104
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 41280,
-    "open_issues_count": 756,
-    "forks_count": 1086
+    "stargazers_count": 41429,
+    "open_issues_count": 773,
+    "forks_count": 1093
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 18885,
-    "open_issues_count": 430,
-    "forks_count": 4876
+    "stargazers_count": 18899,
+    "open_issues_count": 433,
+    "forks_count": 4877
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 31731,
-    "open_issues_count": 2618,
-    "forks_count": 9079
+    "stargazers_count": 31758,
+    "open_issues_count": 2625,
+    "forks_count": 9087
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 34568,
-    "open_issues_count": 311,
+    "stargazers_count": 34586,
+    "open_issues_count": 312,
     "forks_count": 2318
   },
   {
     "full_name": "sinclairzx81/typebox",
-    "stargazers_count": 2867,
+    "stargazers_count": 2876,
     "open_issues_count": 4,
-    "forks_count": 95
+    "forks_count": 97
   },
   {
     "full_name": "nrwl/monorepo.tools",
@@ -139,43 +139,43 @@
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 27773,
-    "open_issues_count": 154,
-    "forks_count": 3765
+    "stargazers_count": 27816,
+    "open_issues_count": 148,
+    "forks_count": 3766
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 91299,
-    "open_issues_count": 6308,
-    "forks_count": 11758
+    "stargazers_count": 91387,
+    "open_issues_count": 6309,
+    "forks_count": 11774
   },
   {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 7389,
+    "stargazers_count": 7397,
     "open_issues_count": 173,
-    "forks_count": 357
+    "forks_count": 358
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 7558,
-    "open_issues_count": 33,
-    "forks_count": 1873
+    "stargazers_count": 7563,
+    "open_issues_count": 34,
+    "forks_count": 1874
   },
   {
     "full_name": "crutchcorn/cli-testing-library",
-    "stargazers_count": 54,
+    "stargazers_count": 56,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "vsavkin/large-monorepo",
-    "stargazers_count": 344,
+    "stargazers_count": 346,
     "open_issues_count": 2,
     "forks_count": 43
   },
   {
     "full_name": "nxtensions/nxtensions",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 10,
     "forks_count": 10
   }
