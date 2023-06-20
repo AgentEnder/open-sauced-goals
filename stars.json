@@ -7,43 +7,43 @@
   },
   {
     "full_name": "qwikifiers/qwik-nx",
-    "stargazers_count": 97,
-    "open_issues_count": 29,
-    "forks_count": 18
+    "stargazers_count": 99,
+    "open_issues_count": 28,
+    "forks_count": 19
   },
   {
     "full_name": "yargs/yargs",
-    "stargazers_count": 10502,
+    "stargazers_count": 10513,
     "open_issues_count": 305,
-    "forks_count": 1045
+    "forks_count": 1044
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 10224,
-    "open_issues_count": 63,
-    "forks_count": 246
+    "stargazers_count": 10443,
+    "open_issues_count": 66,
+    "forks_count": 250
   },
   {
     "full_name": "dotnet/cli",
     "stargazers_count": 3510,
     "open_issues_count": 0,
-    "forks_count": 1135
+    "forks_count": 1134
   },
   {
     "full_name": "leonardochaia/dotnet-affected",
-    "stargazers_count": 120,
+    "stargazers_count": 121,
     "open_issues_count": 3,
     "forks_count": 10
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 39277,
-    "open_issues_count": 144,
-    "forks_count": 1001
+    "stargazers_count": 39366,
+    "open_issues_count": 145,
+    "forks_count": 1005
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 60177,
+    "stargazers_count": 60188,
     "open_issues_count": 63,
     "forks_count": 1413
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2668,
+    "stargazers_count": 2672,
     "open_issues_count": 22,
     "forks_count": 105
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 41982,
-    "open_issues_count": 840,
-    "forks_count": 1129
+    "stargazers_count": 42045,
+    "open_issues_count": 857,
+    "forks_count": 1134
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 18969,
-    "open_issues_count": 364,
-    "forks_count": 4889
+    "stargazers_count": 18981,
+    "open_issues_count": 366,
+    "forks_count": 4888
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 31948,
-    "open_issues_count": 2653,
-    "forks_count": 9160
+    "stargazers_count": 31981,
+    "open_issues_count": 2661,
+    "forks_count": 9178
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
@@ -115,20 +115,20 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 34656,
-    "open_issues_count": 310,
-    "forks_count": 2317
+    "stargazers_count": 34672,
+    "open_issues_count": 312,
+    "forks_count": 2314
   },
   {
     "full_name": "sinclairzx81/typebox",
-    "stargazers_count": 2962,
-    "open_issues_count": 1,
-    "forks_count": 101
+    "stargazers_count": 2976,
+    "open_issues_count": 2,
+    "forks_count": 102
   },
   {
     "full_name": "nrwl/monorepo.tools",
-    "stargazers_count": 240,
-    "open_issues_count": 9,
+    "stargazers_count": 242,
+    "open_issues_count": 10,
     "forks_count": 23
   },
   {
@@ -139,33 +139,33 @@
   },
   {
     "full_name": "nx-dotnet/nx-dotnet",
-    "stargazers_count": 203,
+    "stargazers_count": 204,
     "open_issues_count": 39,
     "forks_count": 44
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 28100,
+    "stargazers_count": 28127,
     "open_issues_count": 148,
-    "forks_count": 3774
+    "forks_count": 3775
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 92047,
-    "open_issues_count": 6285,
-    "forks_count": 11844
+    "stargazers_count": 92134,
+    "open_issues_count": 6308,
+    "forks_count": 11870
   },
   {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 7523,
-    "open_issues_count": 182,
-    "forks_count": 368
+    "stargazers_count": 7543,
+    "open_issues_count": 153,
+    "forks_count": 370
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 7581,
+    "stargazers_count": 7590,
     "open_issues_count": 39,
-    "forks_count": 1876
+    "forks_count": 1878
   },
   {
     "full_name": "crutchcorn/cli-testing-library",
