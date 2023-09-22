@@ -7,7 +7,7 @@
   },
   {
     "full_name": "gnab/remark",
-    "stargazers_count": 12411,
+    "stargazers_count": 12417,
     "open_issues_count": 170,
     "forks_count": 879
   },
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "qwikifiers/qwik-nx",
-    "stargazers_count": 116,
-    "open_issues_count": 30,
+    "stargazers_count": 117,
+    "open_issues_count": 29,
     "forks_count": 20
   },
   {
     "full_name": "yargs/yargs",
-    "stargazers_count": 10665,
+    "stargazers_count": 10668,
     "open_issues_count": 296,
     "forks_count": 1050
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 12790,
-    "open_issues_count": 84,
+    "stargazers_count": 12822,
+    "open_issues_count": 87,
     "forks_count": 348
   },
   {
     "full_name": "dotnet/cli",
-    "stargazers_count": 3503,
+    "stargazers_count": 3502,
     "open_issues_count": 0,
     "forks_count": 1130
   },
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 43290,
-    "open_issues_count": 174,
-    "forks_count": 1075
+    "stargazers_count": 43394,
+    "open_issues_count": 177,
+    "forks_count": 1080
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 60701,
-    "open_issues_count": 64,
+    "stargazers_count": 60718,
+    "open_issues_count": 65,
     "forks_count": 1426
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2737,
+    "stargazers_count": 2739,
     "open_issues_count": 23,
     "forks_count": 109
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 61167,
-    "open_issues_count": 1779,
-    "forks_count": 1744
+    "stargazers_count": 62099,
+    "open_issues_count": 1811,
+    "forks_count": 1791
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -109,39 +109,39 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 19290,
-    "open_issues_count": 382,
-    "forks_count": 4929
+    "stargazers_count": 19299,
+    "open_issues_count": 380,
+    "forks_count": 4930
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 32603,
-    "open_issues_count": 2842,
-    "forks_count": 9361
+    "stargazers_count": 32624,
+    "open_issues_count": 2841,
+    "forks_count": 9365
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
     "stargazers_count": 216,
     "open_issues_count": 9,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "lerna/lerna",
     "stargazers_count": 34929,
-    "open_issues_count": 328,
+    "open_issues_count": 332,
     "forks_count": 2330
   },
   {
     "full_name": "sinclairzx81/typebox",
-    "stargazers_count": 3348,
-    "open_issues_count": 1,
-    "forks_count": 120
+    "stargazers_count": 3362,
+    "open_issues_count": 2,
+    "forks_count": 121
   },
   {
     "full_name": "nrwl/monorepo.tools",
     "stargazers_count": 252,
     "open_issues_count": 9,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "swimlane/pkgdrop",
@@ -152,31 +152,31 @@
   {
     "full_name": "nx-dotnet/nx-dotnet",
     "stargazers_count": 223,
-    "open_issues_count": 47,
+    "open_issues_count": 37,
     "forks_count": 46
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 29210,
+    "stargazers_count": 29245,
     "open_issues_count": 159,
-    "forks_count": 3806
+    "forks_count": 3811
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 94114,
-    "open_issues_count": 5958,
-    "forks_count": 12192
+    "stargazers_count": 94208,
+    "open_issues_count": 5960,
+    "forks_count": 12197
   },
   {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 8362,
-    "open_issues_count": 177,
-    "forks_count": 416
+    "stargazers_count": 8381,
+    "open_issues_count": 178,
+    "forks_count": 417
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 7662,
-    "open_issues_count": 57,
+    "stargazers_count": 7664,
+    "open_issues_count": 53,
     "forks_count": 1901
   }
 ]
