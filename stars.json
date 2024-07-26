@@ -49,21 +49,21 @@
   },
   {
     "full_name": "yargs/yargs",
-    "stargazers_count": 11003,
-    "open_issues_count": 319,
+    "stargazers_count": 11006,
+    "open_issues_count": 318,
     "forks_count": 995
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 15940,
+    "stargazers_count": 15949,
     "open_issues_count": 77,
-    "forks_count": 455
+    "forks_count": 457
   },
   {
     "full_name": "dotnet/cli",
     "stargazers_count": 3488,
     "open_issues_count": 0,
-    "forks_count": 1072
+    "forks_count": 1071
   },
   {
     "full_name": "leonardochaia/dotnet-affected",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 52566,
-    "open_issues_count": 206,
-    "forks_count": 1312
+    "stargazers_count": 52660,
+    "open_issues_count": 203,
+    "forks_count": 1315
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 61732,
+    "stargazers_count": 61729,
     "open_issues_count": 67,
     "forks_count": 1348
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 72210,
-    "open_issues_count": 3382,
-    "forks_count": 2579
+    "stargazers_count": 72257,
+    "open_issues_count": 3412,
+    "forks_count": 2582
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -127,31 +127,31 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 20742,
-    "open_issues_count": 313,
-    "forks_count": 4855
+    "stargazers_count": 20747,
+    "open_issues_count": 314,
+    "forks_count": 4857
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 34892,
-    "open_issues_count": 3358,
-    "forks_count": 9855
+    "stargazers_count": 34909,
+    "open_issues_count": 3372,
+    "forks_count": 9860
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
-    "stargazers_count": 247,
+    "stargazers_count": 248,
     "open_issues_count": 12,
     "forks_count": 51
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 35541,
-    "open_issues_count": 364,
-    "forks_count": 2243
+    "stargazers_count": 35545,
+    "open_issues_count": 363,
+    "forks_count": 2241
   },
   {
     "full_name": "sinclairzx81/typebox",
-    "stargazers_count": 4615,
+    "stargazers_count": 4623,
     "open_issues_count": 13,
     "forks_count": 149
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "nx-dotnet/nx-dotnet",
-    "stargazers_count": 255,
+    "stargazers_count": 257,
     "open_issues_count": 73,
     "forks_count": 52
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 32910,
+    "stargazers_count": 32938,
     "open_issues_count": 174,
     "forks_count": 3678
   }
