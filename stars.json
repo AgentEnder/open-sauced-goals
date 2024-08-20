@@ -43,8 +43,8 @@
   },
   {
     "full_name": "gnab/remark",
-    "stargazers_count": 12671,
-    "open_issues_count": 172,
+    "stargazers_count": 12672,
+    "open_issues_count": 173,
     "forks_count": 855
   },
   {
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "yargs/yargs",
-    "stargazers_count": 11021,
+    "stargazers_count": 11026,
     "open_issues_count": 320,
-    "forks_count": 993
+    "forks_count": 992
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 16026,
-    "open_issues_count": 83,
-    "forks_count": 456
+    "stargazers_count": 16052,
+    "open_issues_count": 84,
+    "forks_count": 457
   },
   {
     "full_name": "dotnet/cli",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 53233,
+    "stargazers_count": 53324,
     "open_issues_count": 198,
-    "forks_count": 1332
+    "forks_count": 1334
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 61768,
+    "stargazers_count": 61779,
     "open_issues_count": 67,
-    "forks_count": 1351
+    "forks_count": 1355
   },
   {
     "full_name": "joshvanallen/nx-bazel-plugin",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 72633,
-    "open_issues_count": 3505,
-    "forks_count": 2620
+    "stargazers_count": 72694,
+    "open_issues_count": 3543,
+    "forks_count": 2625
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 20795,
-    "open_issues_count": 320,
-    "forks_count": 4863
+    "stargazers_count": 20811,
+    "open_issues_count": 315,
+    "forks_count": 4865
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 35033,
-    "open_issues_count": 3373,
-    "forks_count": 9885
+    "stargazers_count": 35050,
+    "open_issues_count": 3394,
+    "forks_count": 9892
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 35588,
-    "open_issues_count": 369,
-    "forks_count": 2245
+    "stargazers_count": 35597,
+    "open_issues_count": 371,
+    "forks_count": 2250
   },
   {
     "full_name": "sinclairzx81/typebox",
-    "stargazers_count": 4696,
+    "stargazers_count": 4710,
     "open_issues_count": 8,
     "forks_count": 151
   },
