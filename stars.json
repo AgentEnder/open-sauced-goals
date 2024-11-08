@@ -55,7 +55,7 @@
   },
   {
     "full_name": "gnab/remark",
-    "stargazers_count": 12725,
+    "stargazers_count": 12726,
     "open_issues_count": 175,
     "forks_count": 857
   },
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "yargs/yargs",
-    "stargazers_count": 11095,
-    "open_issues_count": 317,
+    "stargazers_count": 11097,
+    "open_issues_count": 318,
     "forks_count": 993
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 16193,
+    "stargazers_count": 16196,
     "open_issues_count": 66,
-    "forks_count": 464
+    "forks_count": 465
   },
   {
     "full_name": "dotnet/cli",
-    "stargazers_count": 3488,
+    "stargazers_count": 3486,
     "open_issues_count": 0,
     "forks_count": 1072
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 55071,
-    "open_issues_count": 208,
-    "forks_count": 1376
+    "stargazers_count": 55143,
+    "open_issues_count": 213,
+    "forks_count": 1375
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 61972,
+    "stargazers_count": 61984,
     "open_issues_count": 67,
     "forks_count": 1357
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 74093,
-    "open_issues_count": 3927,
-    "forks_count": 2762
+    "stargazers_count": 74122,
+    "open_issues_count": 3946,
+    "forks_count": 2765
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 20960,
+    "stargazers_count": 20964,
     "open_issues_count": 330,
     "forks_count": 4907
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 35437,
+    "stargazers_count": 35436,
     "open_issues_count": 3600,
-    "forks_count": 10015
+    "forks_count": 10021
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 35718,
-    "open_issues_count": 375,
-    "forks_count": 2251
+    "stargazers_count": 35724,
+    "open_issues_count": 377,
+    "forks_count": 2252
   }
 ]
