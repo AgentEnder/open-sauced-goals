@@ -79,13 +79,13 @@
   },
   {
     "full_name": "yargs/yargs",
-    "stargazers_count": 11126,
+    "stargazers_count": 11131,
     "open_issues_count": 317,
-    "forks_count": 993
+    "forks_count": 994
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 16251,
+    "stargazers_count": 16261,
     "open_issues_count": 64,
     "forks_count": 467
   },
@@ -93,7 +93,7 @@
     "full_name": "dotnet/cli",
     "stargazers_count": 3487,
     "open_issues_count": 0,
-    "forks_count": 1070
+    "forks_count": 1069
   },
   {
     "full_name": "leonardochaia/dotnet-affected",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 56201,
-    "open_issues_count": 224,
-    "forks_count": 1414
+    "stargazers_count": 56265,
+    "open_issues_count": 225,
+    "forks_count": 1421
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 62040,
+    "stargazers_count": 62043,
     "open_issues_count": 67,
     "forks_count": 1358
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "GovAlta/nx-tools",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 3,
     "forks_count": 1
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 74792,
-    "open_issues_count": 4130,
-    "forks_count": 2788
+    "stargazers_count": 74893,
+    "open_issues_count": 4154,
+    "forks_count": 2799
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 21049,
-    "open_issues_count": 337,
-    "forks_count": 4902
+    "stargazers_count": 21056,
+    "open_issues_count": 335,
+    "forks_count": 4900
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 35678,
-    "open_issues_count": 3679,
-    "forks_count": 10119
+    "stargazers_count": 35708,
+    "open_issues_count": 3539,
+    "forks_count": 10123
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 35767,
-    "open_issues_count": 392,
-    "forks_count": 2261
+    "stargazers_count": 35769,
+    "open_issues_count": 394,
+    "forks_count": 2265
   }
 ]
