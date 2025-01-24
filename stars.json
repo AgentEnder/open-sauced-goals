@@ -79,13 +79,13 @@
   },
   {
     "full_name": "yargs/yargs",
-    "stargazers_count": 11149,
+    "stargazers_count": 11150,
     "open_issues_count": 314,
-    "forks_count": 992
+    "forks_count": 993
   },
   {
     "full_name": "tremorlabs/tremor-npm",
-    "stargazers_count": 16275,
+    "stargazers_count": 16299,
     "open_issues_count": 63,
     "forks_count": 469
   },
@@ -99,19 +99,19 @@
     "full_name": "leonardochaia/dotnet-affected",
     "stargazers_count": 228,
     "open_issues_count": 7,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 56971,
+    "stargazers_count": 57147,
     "open_issues_count": 218,
-    "forks_count": 1438
+    "forks_count": 1439
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 62124,
+    "stargazers_count": 62138,
     "open_issues_count": 67,
-    "forks_count": 1354
+    "forks_count": 1356
   },
   {
     "full_name": "joshvanallen/nx-bazel-plugin",
@@ -122,7 +122,7 @@
   {
     "full_name": "GovAlta/nx-tools",
     "stargazers_count": 11,
-    "open_issues_count": 3,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 75376,
-    "open_issues_count": 4285,
-    "forks_count": 2845
+    "stargazers_count": 75551,
+    "open_issues_count": 4341,
+    "forks_count": 2866
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -157,14 +157,14 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 21092,
-    "open_issues_count": 339,
-    "forks_count": 4895
+    "stargazers_count": 21098,
+    "open_issues_count": 332,
+    "forks_count": 4894
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 35837,
-    "open_issues_count": 3576,
+    "stargazers_count": 35855,
+    "open_issues_count": 3574,
     "forks_count": 10182
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 35795,
-    "open_issues_count": 395,
+    "stargazers_count": 35799,
+    "open_issues_count": 394,
     "forks_count": 2267
   }
 ]
