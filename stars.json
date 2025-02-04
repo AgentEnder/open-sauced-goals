@@ -55,7 +55,7 @@
   },
   {
     "full_name": "gnab/remark",
-    "stargazers_count": 12773,
+    "stargazers_count": 12775,
     "open_issues_count": 176,
     "forks_count": 860
   },
@@ -79,39 +79,39 @@
   },
   {
     "full_name": "yargs/yargs",
-    "stargazers_count": 11160,
+    "stargazers_count": 11163,
     "open_issues_count": 315,
     "forks_count": 993
   },
   {
     "full_name": "tremorlabs/tremor-npm",
-    "stargazers_count": 16316,
+    "stargazers_count": 16318,
     "open_issues_count": 63,
     "forks_count": 469
   },
   {
     "full_name": "dotnet/cli",
-    "stargazers_count": 3487,
+    "stargazers_count": 3488,
     "open_issues_count": 0,
     "forks_count": 1066
   },
   {
     "full_name": "leonardochaia/dotnet-affected",
-    "stargazers_count": 230,
+    "stargazers_count": 231,
     "open_issues_count": 8,
     "forks_count": 18
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 57323,
-    "open_issues_count": 223,
-    "forks_count": 1443
+    "stargazers_count": 57409,
+    "open_issues_count": 219,
+    "forks_count": 1445
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 62154,
+    "stargazers_count": 62164,
     "open_issues_count": 67,
-    "forks_count": 1356
+    "forks_count": 1354
   },
   {
     "full_name": "joshvanallen/nx-bazel-plugin",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2791,
+    "stargazers_count": 2793,
     "open_issues_count": 24,
     "forks_count": 110
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 75852,
-    "open_issues_count": 4349,
-    "forks_count": 2886
+    "stargazers_count": 75944,
+    "open_issues_count": 4313,
+    "forks_count": 2892
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 21103,
-    "open_issues_count": 330,
-    "forks_count": 4896
+    "stargazers_count": 21112,
+    "open_issues_count": 327,
+    "forks_count": 4895
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 35874,
-    "open_issues_count": 3574,
-    "forks_count": 10191
+    "stargazers_count": 35929,
+    "open_issues_count": 3586,
+    "forks_count": 10199
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 35803,
-    "open_issues_count": 395,
+    "stargazers_count": 35807,
+    "open_issues_count": 397,
     "forks_count": 2266
   }
 ]
