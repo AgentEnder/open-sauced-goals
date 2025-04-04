@@ -55,7 +55,7 @@
   },
   {
     "full_name": "gnab/remark",
-    "stargazers_count": 12803,
+    "stargazers_count": 12805,
     "open_issues_count": 176,
     "forks_count": 860
   },
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "yargs/yargs",
-    "stargazers_count": 11217,
-    "open_issues_count": 319,
+    "stargazers_count": 11221,
+    "open_issues_count": 320,
     "forks_count": 1000
   },
   {
     "full_name": "tremorlabs/tremor-npm",
-    "stargazers_count": 16362,
+    "stargazers_count": 16359,
     "open_issues_count": 62,
     "forks_count": 471
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 58851,
-    "open_issues_count": 223,
-    "forks_count": 1489
+    "stargazers_count": 58926,
+    "open_issues_count": 222,
+    "forks_count": 1495
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 62334,
+    "stargazers_count": 62340,
     "open_issues_count": 67,
     "forks_count": 1358
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 77176,
-    "open_issues_count": 4566,
-    "forks_count": 2997
+    "stargazers_count": 77243,
+    "open_issues_count": 4585,
+    "forks_count": 3004
   },
   {
     "full_name": "kenotron/monorepo.is",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "dotnet/core",
-    "stargazers_count": 21261,
-    "open_issues_count": 316,
-    "forks_count": 4910
+    "stargazers_count": 21272,
+    "open_issues_count": 322,
+    "forks_count": 4911
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 36352,
-    "open_issues_count": 3611,
-    "forks_count": 10288
+    "stargazers_count": 36395,
+    "open_issues_count": 3620,
+    "forks_count": 10292
   },
   {
     "full_name": "hassanhabib/CSharpCodingStandard",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 35879,
-    "open_issues_count": 395,
+    "stargazers_count": 35881,
+    "open_issues_count": 396,
     "forks_count": 2277
   }
 ]
